@@ -1,0 +1,38 @@
+body{
+    font-family:'Microsoft Yahei';
+    font-size:12px;
+    background-color: #a6e1ec;
+}
+h1{
+  border-left: 30px;
+    margin-left: 180px;
+}
+html,body{
+    height:100%
+}
+/* 顶部样式 */
+.header_con{
+	background-color:#f7f7f7;
+	height:140px;
+    letter-spacing: normal;
+    border-left: 30px;
+	border-bottom:1px solid #dddddd
+}
+
+.title2{
+  background: #EEE url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAHklEQVQImWNkYGBgYGD4//8/A5wF5SBYyAr+//8PAPOCFO0Q2zq7AAAAAElFTkSuQmCC) repeat;
+    text-shadow: 5px -5px black, 4px -4px white;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.div-img{
+    background: url("/static/imgs/07.jpg") no-repeat 4px 5px;
+    height: 500px;
+}
+
+.tr-success{
+    background-color: #D12001;
+}
